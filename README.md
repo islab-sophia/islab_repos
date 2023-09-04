@@ -1,5 +1,5 @@
 # islab_repos
-Link to the repositories created by the members of islab @ Sophia University.
+Link to the other repositories created by the members of islab @ Sophia University.
 
 - class-conditioned-ODI-generator-pytorch @keisuke-okb  
 https://github.com/keisuke-okb/class-conditioned-ODI-generator-pytorch
